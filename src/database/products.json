@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "product_name": "ASUS RTX 3050 Ti Dual OC 8GB",
+    "product_price": 3500000
+  },
+  {
+    "id": 2,
+    "product_name": "NVidia RTX 3060 Ti Dual OC 8GB",
+    "product_price": 4500000
+  },
+  {
+    "id": 3,
+    "product_name": "Colorfull RTX 4070 Ti Dual OC 8GB",
+    "product_price": 6500000
+  },
+  {
+    "id": 4,
+    "product_name": "Gigabyte RTX 4080 Ti Triple OC 32GB",
+    "product_price": 35000000
+  },
+  {
+    "id": 5,
+    "product_name": "MSi RTX 4090 Ti Triple OC 32GB",
+    "product_price": 50000000
+  }
+]
